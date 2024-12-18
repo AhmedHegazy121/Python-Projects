@@ -1,6 +1,7 @@
 # 🐍 Python Projects Portfolio
 
 This portfolio presents Ahmed Hegazy’s hands-on Python projects, showcasing expertise in data cleaning, API integration, and analytical problem-solving. These projects highlight skills in working with real-world datasets, performing advanced cleaning techniques, and integrating third-party APIs to extract actionable insights.
+
 ---
 
 ### 🚴 [Case Study: How Does a Bike-Share Navigate Speedy Success](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Share%20_Bike.ipynb)  
@@ -49,6 +50,7 @@ This portfolio presents Ahmed Hegazy’s hands-on Python projects, showcasing ex
   - Excessive redirects.  
 - **Readable Output**: Parsed the API's JSON response into a clear, structured format for easy interpretation.  
 
----
+### 🌐 [Web Scraping Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Scraping%20Data%20.ipynb?short_path=17a3f57)
+ ---
 
 
