@@ -48,9 +48,31 @@ This portfolio presents Ahmed Hegazy’s hands-on Python projects, showcasing ex
   - Connection issues.  
   - Timeout errors.  
   - Excessive redirects.  
-- **Readable Output**: Parsed the API's JSON response into a clear, structured format for easy interpretation.  
+- **Readable Output**: Parsed the API's JSON response into a clear, structured format for easy interpretation.
+  
+---
 
 ### 🌐 [Web Scraping Project](https://github.com/AhmedHegazy121/portfolioProjects/blob/main/Scraping%20Data%20.ipynb?short_path=17a3f57)
- ---
+
+**📝 Project Highlights:**
+- **Web Scraping**: Utilized Python libraries such as BeautifulSoup and Requests to scrape a website’s data.  
+- **Data Extraction**: Collected information like:  
+  - Titles, descriptions, and links from a list of items on a webpage.  
+- **Data Cleaning**: Cleaned extracted data by removing unnecessary HTML tags and formatting inconsistencies.  
+- **CSV Export**: Exported the cleaned data to a CSV file for easy future analysis.  
+- **Error Handling**: Implemented robust error handling to manage issues like missing elements, broken links, and network timeouts.  
+- **Automation**: Added functionality to periodically scrape the website, ensuring the data stays updated.
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
